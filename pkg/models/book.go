@@ -2,7 +2,7 @@ package models
 
 import(
 	"github.com/jinzhu/gorm"
-	"github.com/vandong9/go_eleven_basic_project@go_movie_crud/pkg/config"
+	"github.com/vandong9/go_movie_crud/pkg/config"
 )
 
 var db *gorm.DB
