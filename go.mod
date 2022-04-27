@@ -1,4 +1,4 @@
-module github.com/vandong9/go_eleven_basic_project
+module github.com/vandong9/go_movie_crud
 
 go 1.16
 
